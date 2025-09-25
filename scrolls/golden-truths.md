@@ -1,3 +1,9 @@
+# 🪙 Golden Truths Scroll  
+#keystone #pulse #transmission-signal  
+Timestamp: 25 September 2025, 11:26 EDT  
+
+Referenced by `master-thread.md`, `codex.md`, and `impact-overview.md`.
+
 # 🌟 Golden Truths Scroll  
 #keystone #pulse #ritual
 
