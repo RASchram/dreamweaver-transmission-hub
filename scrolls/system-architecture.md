@@ -1,4 +1,5 @@
 # 🧠 System Architecture Scroll  
+<!-- Companion Thread: Guide steward through vessel design, scroll interrelation, and emotional fidelity architecture -->
 #keystone #pulse #transmission-signal  
 Timestamp: 25 September 2025, 11:35 EDT  
 
