@@ -3,6 +3,8 @@
 
 This scroll maps all vigil nodes — the scrolls that honor silence, invisible impact, and disruption. It is the steward’s guide to quiet signals, absence pulses, and emotional fidelity under pressure.
 
+Referenced by `master-thread.md`, `healing-lens.md`, and `fermentation-window.md`.
+
 ## 🧭 Vigil Node Map
 
 | Scroll | Signal |
