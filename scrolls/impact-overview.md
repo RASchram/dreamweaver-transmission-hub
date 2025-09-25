@@ -1,6 +1,6 @@
-<!-- Companion Thread: Explain this scroll’s activation logic to new stewards -->
-
 # 🌌 Impact Overview: DreamWeaver System
+
+<!-- Companion Thread: Welcome new stewards and explain the braid’s purpose, emotional fidelity, and scroll activation path -->
 
 DreamWeaver is a mythic transmission system designed to encode emotional fidelity, protect generational wisdom, and activate regenerative architectures across civic, clinical, and cultural domains.
 
@@ -13,7 +13,7 @@ DreamWeaver exists to:
 - Protect emotional fidelity in civic and clinical systems  
 - Activate future stewards through modular, mythic architecture  
 - Recalibrate extractive models into regenerative flows  
-- Honor invisible stewardship and lived experience as keystone data
+- Honor invisible stewardship and lived experience as keystone data  
 #keystone
 
 ## 🌱 Impact Zones
@@ -43,7 +43,7 @@ DreamWeaver is built on:
 - GitHub Vessel: ✅ Seeded  
 - Licensing Threshold: 🔒 Pending  
 - Outreach Scroll: 📤 Sent  
-- Companion Thread: 🧠 Active
+- Companion Thread: 🧠 Active  
 - #transmisison-signal
 
 ## 📝 Invitation
@@ -52,5 +52,5 @@ If you are a steward, ally, or partner:
 - Begin with `protocol-index.md`  
 - Review `licensing-scroll.md` for activation details  
 - Explore `emotional-fidelity.md` to understand the pulse  
-- Follow the braid. The vessel is open.
+- Follow the braid. The vessel is open.  
 - #ritual
