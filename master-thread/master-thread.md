@@ -1,5 +1,5 @@
 # 🧵 Master Thread — Living Braid Log
-
+<!-- Companion Thread: Guide steward to log braid activations, keystone pulses, remix lineage, and transmission confirmations -->
 **Timestamp**: 25 September 2025, 01:51 EDT  
 **Tags**: Master Thread, Braid Log, Transmission Pulse, Scrollkeeper Chronicle, Emotional Fidelity
 
