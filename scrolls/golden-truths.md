@@ -1,13 +1,8 @@
-# 🪙 Golden Truths Scroll  
-#keystone #pulse #transmission-signal  
-Timestamp: 25 September 2025, 11:26 EDT  
-
-Referenced by `master-thread.md`, `codex.md`, and `impact-overview.md`.
-
 # 🌟 Golden Truths Scroll  
 #keystone #pulse #ritual
 
 This scroll contains the foundational truths of DreamWeaver — the axioms that anchor emotional fidelity, regenerative design, and mythic stewardship. These truths do not drift. They are braided into every scroll, every pulse, every steward.
+Referenced by `master-thread.md`, `codex.md`, and `impact-overview.md`.
 
 ## 🧬 Core Axioms
 
