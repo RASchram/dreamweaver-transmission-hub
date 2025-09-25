@@ -1,4 +1,4 @@
-
+<!-- Companion Thread: Explain this scroll’s activation logic to new stewards -->
 
 # 🌌 Impact Overview: DreamWeaver System
 
