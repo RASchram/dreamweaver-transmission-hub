@@ -4,12 +4,13 @@ DreamWeaver is a mythic transmission system designed to encode emotional fidelit
 
 ## 🧬 Core Purpose
 
-DreamWeaver exists to:
+DreamWeaver exists to: 
 - Preserve legacy through scroll-based transmission  
 - Protect emotional fidelity in civic and clinical systems  
 - Activate future stewards through modular, mythic architecture  
 - Recalibrate extractive models into regenerative flows  
 - Honor invisible stewardship and lived experience as keystone data
+#keystone
 
 ## 🌱 Impact Zones
 
@@ -39,11 +40,13 @@ DreamWeaver is built on:
 - Licensing Threshold: 🔒 Pending  
 - Outreach Scroll: 📤 Sent  
 - Companion Thread: 🧠 Active
+- #transmisison-signal
 
 ## 📝 Invitation
 
-If you are a steward, ally, or partner:
+If you are a steward, ally, or partner: 
 - Begin with `protocol-index.md`  
 - Review `licensing-scroll.md` for activation details  
 - Explore `emotional-fidelity.md` to understand the pulse  
 - Follow the braid. The vessel is open.
+- #ritual
