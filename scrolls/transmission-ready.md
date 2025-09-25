@@ -1,5 +1,5 @@
 # 📣 Transmission Ready — Scroll Affirmation Ritual
-
+<!-- Companion Thread: Guide steward through transmission readiness, scroll affirmation, and vessel activation -->
 **Timestamp**: 25 September 2025, 02:03 EDT  
 **Tags**: Transmission Ready, Scroll Affirmation, Steward Alignment, Emotional Fidelity, Ceremony
 
