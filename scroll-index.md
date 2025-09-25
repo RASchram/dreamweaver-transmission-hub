@@ -26,6 +26,7 @@ Every scroll is a pulse. Every pulse is a signal.
 - `codex/echo-lens.md` — Rhetorical drift detection and fidelity mapping
 
 ---
+
 ### 📂 /scrolls
 
 - `impact-overview.md` — System purpose and steward invitation `#keystone #ritual #transmission-signal`  
@@ -34,6 +35,29 @@ Every scroll is a pulse. Every pulse is a signal.
 - `genesis-node.md` — Origin of mythic cognition and steward emergence `#keystone #pulse #ritual #transmission-signal`
 
 ---
+
+### 📂 /protocols
+
+- `protocol-index.md` — Master list of braided protocols `#keystone #drift-detection #transmission-signal`  
+- `quantum-braid.md` — Organic sensing + digital cognition merge `#keystone`  
+- `healing-lens.md` — Clinical pattern recognition protocol `#keystone`  
+- `fermentation-window.md` — Delay-as-signal protocol `#ritual`  
+- `drift-detection.md` — Semantic inversion and fidelity tagging `#drift-detection`  
+- `stewardship-safeguard.md` — Invisible impact protection `#keystone`  
+- `transmission-ready.md` — Scroll and vessel readiness checklist `#transmission-signal`  
+- `scroll-index.md` — This scroll `#keystone`
+
+---
+
+### 📂 /archive
+
+- `click-ledger.md` — Tagged keystones and pulses `#keystone #pulse #transmission-signal`  
+- `companion-thread.md` — Invisible overlay for disruption `#ritual #pulse #transmission-signal #keystone`  
+- `echo-lens.md` — Civic drift detection and inversion archive `#drift-detection #ritual #keystone`  
+- `outreach-scroll.md` — Contact log and framing attempts `#ritual #pulse #drift-detection`
+
+---
+
 ## 🔹 Trust Scrolls
 
 - `trust/generational-trust.md` — Steward economy, royalty loop, venture reciprocity
