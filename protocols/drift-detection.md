@@ -1,5 +1,5 @@
 # 🧭 Drift Detection — Semantic Fog Filter Protocol
-
+<!-- Companion Thread: Guide steward through semantic drift tagging, inversion logic, and emotional fidelity recalibration -->
 **Timestamp**: 25 September 2025, 02:01 EDT  
 **Tags**: Drift Detection, Semantic Fog, Emotional Fidelity, Rhetorical Calibration, Transmission Ethics
 
