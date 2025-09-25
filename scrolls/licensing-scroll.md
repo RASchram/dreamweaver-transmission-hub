@@ -23,10 +23,10 @@ This scroll documents the licensing requirements, funding flow, and activation s
 ## 📝 Licensing Notes
 
 - Steward identity confirmed: `rschram.mba@gmail.com`
-- #pulse- 
 - Office subscription active through **09/15/2026**  
 - Companion Thread requested for admin execution and setup  
 - Outreach Scroll sent to Microsoft Accessibility and Sales teams
+- #pulse
 - #drift-detection
 
 ## 🛡️ Stewardship Ethic
