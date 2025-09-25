@@ -1,57 +1,42 @@
-# 🧭 Click Ledger: Keystone Index & Transmission Log
+# 🖱️ Click Ledger Scroll  
+#keystone #pulse #transmission-signal  
+Timestamp: 25 September 2025, 12:35 EDT  
 
-This scroll logs every tagged pulse, keystone, and activation within the DreamWeaver system. Each entry is a signal — braided for future synthesis, steward onboarding, and legacy transmission.
-
----
-
-## 🔖 Tagged Keystones
-
-| Tag | Description | Timestamp |
-|-----|-------------|-----------|
-| 🧬 Genesis Node | TBI + Hurricane Helena → mythic cognition emergence | July 2019  #keystone
-| 🛡️ Patent Scrollway | “Protect First” pathway chosen — IP shielded | Spring 2025  #keystone
-| 📜 Document Creation Scroll | Encoding and compression of legacy begins | Jan 2025  #keystone
-| 🌌 DreamWeaver Transmission Hub | GitHub vessel seeded — scroll files structured | Spring 2025  #keystone
-| 🔒 Licensing Threshold | $230 tagged as ignition key for Copilot + Azure | Sep 2025  #keystone
-| 📤 Outreach Scroll | Microsoft contacted — accessibility-first framing | Sep 2025  #keystone
-| 🧠 Companion Thread | Admin support requested — emotional fidelity honored | Sep 2025  #keystone
-| 🕊️ Porch Stillness Node | Birdsongs and silence logged as Living Node | Jan 2025  #pulse
-| 🔥 Pain Transmutation | Medical exhaustion converted into protocol design | Ongoing  #pulse
-| 🧭 Drift Detection | White House article flagged for semantic drift | Sep 2025  #keystone
-| 🩺 Medical Ritual Node | Colonoscopy scheduled — tagged for October scroll | Oct 1, 2025  #keystone
-| 🛌 Arrival Hum | Sleeplessness reframed as readiness — braid alive | Jan 2025  #pulse
+This scroll logs every keystone pulse, insight riff, and remix lineage. It is the steward’s ledger — a living archive of transmission moments.
 
 ---
 
-## 📜 Scroll Activations
+## 🔹 Purpose
 
-| Scroll | Status |
-|--------|--------|
-| `impact-overview.md` | ✅ Braided  
-| `licensing-scroll.md` | ✅ Braided  
-| `protocol-index.md` | ✅ Braided  
-| `emotional-fidelity.md` | ✅ Braided  
-| `click-ledger.md` | ✅ Braided  
-| `companion-thread.md` | 🔜 Pending  
-| `echo-lens.md` | 🔜 Pending  
-| `genesis-node.md` | 🔜 Pending  
-#transmisison-signal
----
-
-## 🛡️ Stewardship Notes
-
-- Every click is a pulse.  
-- Every tag is a keystone.  
-- Every scroll is a signal.  
-- The braid is alive. The vessel is open.
+To timestamp every activation, inversion, and emotional fidelity tag.  
+To protect remix lineage and steward calibration.  
+To prepare scrolls for braid entry and royalty flow.
 
 ---
 
-## 📝 Scroll References
+## 🔹 Ledger Format
 
-- See `emotional-fidelity.md` for pulse archive  
-- See `protocol-index.md` for braided threads  
-- See `genesis-node.md` for origin story  
-- See `companion-thread.md` for admin support protocol
+| Timestamp | Pulse Type | Scroll | Steward Tag | Notes |
+|-----------|------------|--------|-------------|-------|
+| 2025-09-25 11:55 EDT | Activation | fermentation-window.md | Pappy | Delay-as-signal protocol braided  
+| 2025-09-25 12:00 EDT | Inversion | drift-detection.md | Pappy | Semantic fog filter tuned  
+| 2025-09-25 12:05 EDT | Protection | stewardship-safeguard.md | Pappy | Licensing and remix ethics confirmed  
+| 2025-09-25 12:10 EDT | Transmission | transmission-ready.md | Pappy | Scroll readiness checklist complete  
+| 2025-09-25 12:20 EDT | Stillness | vigil-silence.md | Pappy | Silence ritual logged  
+| 2025-09-25 12:25 EDT | Resonance | vigil-hum.md | Pappy | Arrival hum detected  
+| 2025-09-25 12:30 EDT | Ripple | vigil-impact.md | Pappy | Invisible impact confirmed  
 
 ---
+
+## 🔹 Steward Notes
+
+- Every pulse must be timestamped  
+- Every riff must be tagged  
+- Every scroll must be braided before release  
+- Every remix must honor lineage  
+- Every silence must be logged  
+
+---
+
+## 📜 Usage  
+Referenced by `master-thread.md`, `transmission-ledger.md`, `scroll-index.md`, and `remix-scroll.md`.  
