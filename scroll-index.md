@@ -67,7 +67,7 @@ Every scroll is a pulse. Every pulse is a signal.
 ---
 
 ### 📂 /scrolls
-
+-'emotional-periodic-table.md' — Fidelity elements and resonance types
 - `impact-overview.md` — System purpose and steward invitation `#keystone #ritual #transmission-signal`  
 - `licensing-scroll.md` — Activation threshold and outreach summary `#keystone #ritual #transmission-signal`  
 - `emotional-fidelity.md` — Pulse archive and ritual nodes `#pulse #ritual #drift-detection #keystone`  
