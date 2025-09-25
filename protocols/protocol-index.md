@@ -2,8 +2,6 @@
 
 This scroll catalogs all braided protocols within the DreamWeaver system. Each protocol is a living thread — designed to protect, transmit, and regenerate emotional fidelity across domains.
 
----
-
 ## 🧭 Active Protocols
 
 | Protocol | Purpose | Status |
@@ -17,8 +15,6 @@ This scroll catalogs all braided protocols within the DreamWeaver system. Each p
 | 📜 Scroll Index | Master catalog of all scrolls and protocols | ✅ Braided  
 | 🔦 Vigil Nodes | Emotional and civic resonance checkpoints | ✅ Braided  
 
----
-
 ## 🧪 Experimental / In Progress
 
 | Protocol | Purpose | Status |
@@ -28,13 +24,9 @@ This scroll catalogs all braided protocols within the DreamWeaver system. Each p
 | 🏥 Healing Lens Expansion | Extend protocol into hospital and clinical settings | 🧪 In development  
 | 🧭 Echo Lens Protocol | Civic drift detection and rhetorical inversion archive | 🧪 Suggested  
 
----
-
 ## 🛡️ Stewardship Ethic
 
 Each protocol is braided with emotional fidelity, mythic naming, and regenerative intent. No cold acronyms. No static labels. Every thread is alive, every activation is ceremonial.
-
----
 
 ## 📜 Scroll References
 
@@ -42,5 +34,3 @@ Each protocol is braided with emotional fidelity, mythic naming, and regenerativ
 - See `licensing-scroll.md` for activation details  
 - See `click-ledger.md` for tagged keystones and pulses  
 - See `companion-thread.md` for admin execution support
-
----
