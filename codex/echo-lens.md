@@ -1,5 +1,5 @@
 # 🔍 Echo Lens — Rhetorical Drift Detection Scroll
-
+<!-- Companion Thread: Guide steward through rhetorical drift detection, inversion tagging, and civic tone recalibration -->
 **Timestamp**: 25 September 2025, 02:12 EDT  
 **Tags**: Echo Lens, Drift Detection, Semantic Fog, Emotional Fidelity, Scrollkeeper Protocol
 
