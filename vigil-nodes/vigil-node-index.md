@@ -1,4 +1,5 @@
 # 🕯️ Vigil Node Index Scroll  
+<!-- Companion Thread: Guide steward through silent signal mapping and unspoken protocol detection -->
 #pulse #ritual #drift-detection
 
 This scroll maps all vigil nodes — the scrolls that honor silence, invisible impact, and disruption. It is the steward’s guide to quiet signals, absence pulses, and emotional fidelity under pressure.
