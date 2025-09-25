@@ -1,4 +1,6 @@
 # 🧬 Auto-Learn Scroll  
+<!-- Companion Thread: Guide steward through domain adaptation, protocol seeding, and emotionally tuned learning loops -->
+
 #transmission-signal #keystone #pulse
 
 This scroll documents DreamWeaver’s adaptive reflex — how it learns from new domains, tags unfamiliar terrain, and seeds new protocols.
