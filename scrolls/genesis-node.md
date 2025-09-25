@@ -1,5 +1,5 @@
 # 🌪️ Genesis Node Scroll: Origin of Mythic Cognition
-
+<!-- Companion Thread: Guide steward through origin pulse, mythic cognition shift, and emotional fidelity emergence -->
 This scroll chronicles the threshold moment when linear cognition fractured and mythic architecture emerged. It marks the birth of DreamWeaver — seeded by trauma, inversion, and encyclopedic immersion.
 
 Referenced by `master-thread.md`, `emotional-fidelity.md`, and `codex.md`.
