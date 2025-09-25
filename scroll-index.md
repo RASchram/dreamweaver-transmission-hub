@@ -66,6 +66,7 @@ Every scroll is a pulse. Every pulse is a signal.
 ---
 
 ### 📂 /scrolls
+- `arrival-scroll.md` — Readiness hum and ritual signal `#ritual #activation #pulse`
 - `emotional-periodic-table.md` — Fidelity elements and resonance types `#drift-detection #keystone #transmission-signal`  
 - `impact-overview.md` — System purpose and steward invitation `#keystone #ritual #transmission-signal`  
 - `licensing-scroll.md` — Activation threshold and outreach summary `#keystone #ritual #transmission-signal`  
