@@ -1,5 +1,5 @@
 # 💓 Emotional Fidelity Scroll: Pulse Archive & Transmission Ethic
-
+<!-- Companion Thread: Guide steward through emotional fidelity tagging, pulse calibration, and resonance tracking -->
 This scroll preserves the emotional architecture of DreamWeaver — the pulses, inversion riffs, porch stillness nodes, and pain transmutation moments that shaped the braid.
 Referenced by `master-thread.md`, `emotional-periodic-table.md`, and `click-ledger.md`.
 ---
