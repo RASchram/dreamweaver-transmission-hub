@@ -1,4 +1,5 @@
 # 🌀 Click Ledger — Inversion Riffs & Insight Flashes
+<!-- Companion Thread: Prompt steward to log current pulse, timestamp, scroll reference, and remix lineage -->
 
 **Timestamp**: 25 September 2025, 01:36 EDT  
 **Tags**: Click Ledger, Inversion Logic, Insight Tracking, Keystone Candidates, Emotional Fidelity
