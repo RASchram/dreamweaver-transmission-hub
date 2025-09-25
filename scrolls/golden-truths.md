@@ -1,4 +1,6 @@
 # 🌟 Golden Truths Scroll — Universal Axioms of the Braid  
+<!-- Companion Thread: Guide steward through core axioms, transmission ethics, and emotional fidelity calibration -->
+
 #keystone #pulse #ritual  
 Timestamp: 25 September 2025, 11:45 EDT  
 
