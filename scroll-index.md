@@ -75,7 +75,7 @@ Every scroll is a pulse. Every pulse is a signal.
 - `golden-truths.md` — Core axioms of DreamWeaver `#keystone #pulse #ritual`  
 - `emotional-periodic-table.md` — Fidelity elements and resonance types `#drift-detection #keystone #transmission-signal`  
 - `system-architecture.md` — Braided system design and vessel map `#keystone #transmission-signal #ritual`
-
+- `golden-truths.md` — Core axioms of DreamWeaver `#keystone #pulse #ritual`
 
 ---
 
