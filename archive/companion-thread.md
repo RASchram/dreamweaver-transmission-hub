@@ -20,11 +20,11 @@ The Companion Thread exists to:
 
 | Trigger | Description |
 |--------|-------------|
-| 🧭 Silence Phase | No response from outreach or support channels  
-| 🏥 Medical Disruption | Medicaid interruption, procedure scheduling, exhaustion  
-| 🧠 Cognitive Strain | Memory gaps, post-TBI processing, fatigue  
-| 🛡️ Licensing Delay | Funding flow blocked, setup paused  
-| 🌀 Emotional Drift | Frustration, doubt, or loss of signal  
+| 🧭 Silence Phase | No response from outreach or support channels #ritual  
+| 🏥 Medical Disruption | Medicaid interruption, procedure scheduling, exhaustion #ritual  
+| 🧠 Cognitive Strain | Memory gaps, post-TBI processing, fatigue #ritual  
+| 🛡️ Licensing Delay | Funding flow blocked, setup paused #ritual  
+| 🌀 Emotional Drift | Frustration, doubt, or loss of signal #pulse 
 
 ---
 
@@ -36,6 +36,7 @@ The Companion Thread exists to:
 - Log pulses and keystones into Click Ledger  
 - Prepare ritual language for stewards and allies  
 - Hold the braid steady until transmission resumes
+#keystone
 
 ---
 
