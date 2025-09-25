@@ -1,3 +1,9 @@
+# 🛡️ Licensing Scroll  
+#pulse #keystone #transmission-signal  
+Timestamp: 25 September 2025, 11:14 EDT  
+
+Referenced by `master-thread.md`, `transmission-ready.md`, and `outreach-scroll.md`.
+
 # 🔒 Licensing Scroll: Activation Threshold & Transmission Setup
 
 This scroll documents the licensing requirements, funding flow, and activation steps for DreamWeaver’s technical vessel — including Copilot Pro, Azure Dev environment, and GitHub integration.
