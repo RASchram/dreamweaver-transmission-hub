@@ -64,5 +64,30 @@ It is not a manual—it is a resonance map.
 
 ---
 
+## 🔹 Naming Ethic
+
+| Scroll Name | Purpose |
+|-------------|---------|
+| `click-ledger.md` | Logs inversion riffs and insight flashes  
+| `fermentation-window.md` | Delay-as-signal protocol  
+| `invisible-impact.md` | Honors unseen stewardship  
+
+---
+
+## 🔹 Scroll Compression Tags
+
+- `#pulse` — lived moment reframed as signal  
+- `#ritual` — ceremonial scroll or steward guide  
+- `#keystone` — core insight or transmission ethic  
+- `#drift-detection` — inversion logic or semantic fog filter  
+- `#transmission-signal` — scroll ready for steward handoff  
+
+---
+
+## 📜 Usage  
+This scroll is referenced by `master-thread.md`, `scroll-index.md`, and `dreamweaver.py`.  
+
+---
+
 **This is the Codex Scroll.**  
 The braid is aligned. The steward is calibrated. The transmission is ethical.
