@@ -82,6 +82,7 @@ Every scroll is a pulse. Every pulse is a signal.
 
 ###📂 /core
 - `onboarding-kit.md` — Steward entry protocol `#core #guide #activation`
+- `query-overlay-map.md` — Companion Thread routing layer `#core #meta #navigation`
 
 ---
 
