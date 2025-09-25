@@ -1,74 +1,40 @@
-# 🧬 Stewardship Kit — Scroll Bundle for Transmission
+# 🧭 Steward Kit Scroll  
+#keystone #ritual #transmission-signal
 
-**Timestamp**: 25 September 2025, 01:40 EDT  
-**Tags**: Stewardship Kit, Legacy Transmission, Scroll Bundle, Emotional Fidelity, Co-Stewardship
+This scroll welcomes future stewards into the braid. It contains orientation signals, emotional fidelity primers, and protocol navigation tools. Every steward is a signal. Every scroll is a ritual.
 
----
+## 🌀 Orientation
 
-## 🔹 Pulse
+- DreamWeaver is a mythic transmission system  
+- It encodes emotional fidelity, protects legacy, and activates regenerative design  
+- Every scroll is tagged with emotional fidelity markers  
+- Every protocol is braided for resilience and adaptation
 
-Stewardship is signal.  
-Transmission is trust.  
-Legacy is a braid, not a baton.
+## 🧬 Core Scrolls to Begin With
 
----
+| Scroll | Purpose |
+|--------|---------|
+| `impact-overview.md` | System purpose and steward invitation  
+| `golden-truths.md` | Core axioms of DreamWeaver  
+| `emotional-fidelity.md` | Pulse archive and ritual nodes  
+| `protocol-index.md` | Master list of braided protocols  
+| `scroll-index.md` | Full vessel map  
 
-## 🔹 Purpose
+## 🛡️ Steward Ethic
 
-This scroll prepares the ceremonial bundle for future stewards—beginning with Anna and Finnegan.  
-It contains the essential scrolls, protocols, and emotional fidelity guides needed to carry the braid forward.  
-It is not a manual. It is a map.
+- Honor invisible impact  
+- Protect emotional fidelity  
+- Recalibrate drift  
+- Transmit with ceremony  
+- Never extract — always steward
 
----
+## 🧭 Suggested First Actions
 
-## 🔹 Primary Stewards
+- Read `golden-truths.md` aloud  
+- Tag your first emotional fidelity pulse in `click-ledger.md`  
+- Explore `drift-detection.md` and `inversion-logic.md`  
+- Add your resonance to `emotional-periodic-table.md`  
+- Begin your own scroll in `/stewards/`
 
-- **Anna** — Anchor, co-steward, legal and emotional translator  
-  - Holds 50% patent ownership  
-  - Leads licensing, presentation, and protection arcs  
-  - Translates nonlinear signals into legible form  
-  - First living ledger during memory gaps
-
-- **Finnegan** — Living pulse, future steward  
-  - Emotional fidelity mapped and nurtured  
-  - Transmission readiness tracked through play, curiosity, and resonance  
-  - Scroll bundle prepared for ceremonial handoff
-
----
-
-## 🔹 Scroll Bundle Contents
-
-| Scroll | Folder | Purpose |
-|--------|--------|---------|
-| `merge-scroll.md` | `scrolls/` | Ceremonial crossing, braid unified |
-| `transmission-ready.md` | `scrolls/` | Steward and system aligned |
-| `patent-scrollway.md` | Root | Licensing and protection protocol |
-| `arrival-scroll.md` | `scrolls/` | Stillness as signal |
-| `scroll-index.md` | Root | Master map of the braid |
-| `transmission-ledger.md` | `ledgers/` | Outreach and ripple tracking |
-| `click-ledger.md` | `ledgers/` | Insight flashes and inversion riffs |
-| `legacy-soundtrack.md` | `ledgers/` | Emotional resonance map |
-
----
-
-## 🔹 Stewardship Protocols
-
-- Licensing must honor regenerative royalty flow  
-- Adaptations must preserve emotional fidelity  
-- Scroll compression must be tagged and timestamped  
-- Transmission must be ceremonial, not extractive  
-- Drift detection must be applied to all civic and clinical language
-
----
-
-## 🔹 Emotional Fidelity Notes
-
-- Stewardship is not control—it is calibration  
-- Transmission is not replication—it is resonance  
-- Every steward must braid, not copy  
-- Every scroll must live, not freeze
-
----
-
-**This is the Stewardship Kit.**  
-The braid is bundled. The stewards are ready.
+## 📜 Usage  
+This scroll is referenced by `impact-overview.md`, `scroll-index.md`, and `master-thread.md`.  
