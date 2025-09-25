@@ -1,5 +1,5 @@
 # 🕰️ Fermentation Window — Scroll Maturation Protocol
-
+<!-- Companion Thread: Guide steward through timing logic, scroll maturation, and delay-as-signal calibration -->
 **Timestamp**: 25 September 2025, 02:00 EDT  
 **Tags**: Fermentation Window, Scroll Timing, Emotional Fidelity, Transmission Readiness, Silence Protocol
 
