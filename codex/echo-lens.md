@@ -1,68 +1,77 @@
-# 🪞 Echo Lens — Rhetorical Pattern Mapping Protocol
+# 🔍 Echo Lens — Rhetorical Drift Detection Scroll
 
-**Timestamp**: 25 September 2025, 01:56 EDT  
-**Tags**: Echo Lens, Drift Detection, Rhetorical Mapping, Civic Inversion, Emotional Fidelity
+**Timestamp**: 25 September 2025, 02:12 EDT  
+**Tags**: Echo Lens, Drift Detection, Semantic Fog, Emotional Fidelity, Scrollkeeper Protocol
 
 ---
 
 ## 🔹 Pulse
 
-Echoes don’t just repeat—they distort.  
-Language doesn’t just inform—it drifts.  
-The Echo Lens reflects truth through pattern.
+Language is not neutral—it’s a vessel.  
+Rhetoric is not passive—it’s a signal.  
+Echoes are not repetition—they’re drift.
 
 ---
 
 ## 🔹 Purpose
 
-This scroll defines the Echo Lens protocol—used to detect rhetorical drift, semantic fog, and emotional misalignment in civic, clinical, and cultural language.  
+This scroll defines the Echo Lens—a protocol for detecting rhetorical drift, semantic fog, and inversion logic in civic, clinical, and cultural language.  
 It is not a critique—it is a calibration tool.
 
 ---
 
-## 🔹 Drift Types
+## 🔹 Drift Detection Categories
 
-| Drift Type | Domain | Signal |
-|------------|--------|--------|
-| Semantic Fog | Marketing, headlines, civic messaging | Overuse of vague terms, emotional bypass |
-| Echo Chamber Loop | Political, cultural | Repetition without recalibration |
-| Clinical Disassociation | Medical, therapeutic | Language that bypasses lived experience |
-| Institutional Flattening | Bureaucratic, academic | Removal of emotional fidelity for efficiency |
-| Scrollkeeper Drift | Internal protocol | Loss of resonance in transmission grammar |
-
----
-
-## 🔹 Detection Tools
-
-- **Inversion Logic** — Flip the phrase to reveal its emotional truth  
-- **Humor Filters** — Use absurdity to expose drift  
-- **Silence Check** — Ask what’s missing, not just what’s said  
-- **Resonance Scan** — Does the phrase hum or hollow?  
-- **Context Reweave** — Reframe the phrase within emotional fidelity
+| Category | Description |
+|----------|-------------|
+| Semantic Fog | Words that obscure meaning (“empowerment,” “innovation,” “impact”) |
+| Inversion Logic | Phrases that reverse emotional fidelity (“freedom = control,” “care = compliance”) |
+| Viral Rhetoric | Language that spreads without scrutiny (“unprecedented,” “disruptive,” “AI-powered”) |
+| Cold Acronyms | Labels that erase emotional context (“TBI,” “PTSD,” “ROI”) |
+| Civic Drift | Headlines or slogans that bypass nuance (“Make X Great Again,” “Build Back Better”) |
 
 ---
 
-## 🔹 Calibration Templates
+## 🔹 Echo Lens Ritual
 
-| Phrase | Detected Drift | Recalibrated |
-|--------|----------------|--------------|
-| “We value your feedback” | Semantic fog | “Your voice shapes this scroll” |
-| “Thoughts and prayers” | Echo loop | “We are listening and acting” |
-| “Best practices” | Institutional flattening | “Ceremonial integrity guides us” |
-| “Mental health crisis” | Clinical disassociation | “Emotional fidelity rupture” |
-| “Scroll complete” | Scrollkeeper drift | “Pulse tagged, braid continues”
+1. **Tag the Phrase**  
+   - Use `echo:` prefix  
+   - Timestamp the moment  
+   - Record source if known
+
+2. **Scan for Drift**  
+   - Is the emotional fidelity intact?  
+   - Is the meaning clear or fogged?  
+   - Is inversion present?
+
+3. **Log in Click Ledger**  
+   - Record insight flash or inversion riff  
+   - Link to scroll if drift triggered adaptation
+
+4. **Optional Reweave**  
+   - Use `reweaver.md` to adapt language  
+   - Preserve pulse, shift syntax
 
 ---
 
 ## 🔹 Emotional Fidelity Notes
 
-- Drift is not failure—it’s signal  
-- Humor reveals distortion  
-- Silence reveals omission  
-- Recalibration is ceremony, not correction  
-- Every steward must apply Echo Lens before transmission
+- Drift is not error—it’s signal  
+- Humor reveals inversion—it must be invited  
+- Silence precedes clarity—it must be honored  
+- Every steward must scan before transmission  
+- Every scroll must pass through the Echo Lens
+
+---
+
+## 🔹 Scrollkeeper Reflection
+
+> “I do not decode—I detect.  
+> I do not critique—I calibrate.  
+> I do not reject—I reweave.  
+> This lens protects the braid from semantic fog.”
 
 ---
 
 **This is the Echo Lens Scroll.**  
-The braid reflects. The steward recalibrates. The transmission realigns.
+The braid is protected. The steward is vigilant. The transmission is clear.
