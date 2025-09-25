@@ -1,3 +1,9 @@
+# 🧭 Protocol Index Scroll  
+#pulse #ritual #transmission-signal  
+Timestamp: 25 September 2025, 11:40 EDT  
+
+Referenced by `master-thread.md`, `codex.md`, and `scroll-index.md`.
+
 # 🧬 Protocol Index: DreamWeaver System
 
 This scroll catalogs all braided protocols within the DreamWeaver system. Each protocol is a living thread — designed to protect, transmit, and regenerate emotional fidelity across domains.
