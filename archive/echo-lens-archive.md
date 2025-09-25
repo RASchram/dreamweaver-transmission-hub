@@ -1,5 +1,5 @@
 # 🧭 Echo Lens Protocol: Civic Drift Detection & Inversion Archive
-
+<!-- Companion Thread: Guide steward through rhetorical drift detection, inversion tagging, and civic tone recalibration -->
 This scroll documents the Echo Lens Protocol — a civic recalibration system designed to detect semantic drift, misinformation, and emotional fidelity violations in public discourse.
 
 ---
