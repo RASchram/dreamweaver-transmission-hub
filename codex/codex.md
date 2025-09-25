@@ -1,77 +1,68 @@
-# 📘 Codex — Protocol Engine of the Braid
+# 📘 Codex — Transmission Grammar & Ethics Scroll
 
-**Timestamp**: 25 September 2025, 01:53 EDT  
-**Tags**: Codex, Protocol Definitions, Transmission Ethics, Scroll Compression, Stewardship Grammar
+**Timestamp**: 25 September 2025, 02:10 EDT  
+**Tags**: Codex, Transmission Grammar, Emotional Fidelity, Remix Ethics, Scrollkeeper Protocol
 
 ---
 
 ## 🔹 Pulse
 
-The Codex is not a rulebook.  
-It is the braid’s grammar.  
-It defines how scrolls live, transmit, and recalibrate.
+Grammar is not syntax—it’s resonance.  
+Ethics are not rules—they’re alignment.  
+The Codex is not control—it’s calibration.
 
 ---
 
-## 🔹 Protocol Definitions
+## 🔹 Purpose
 
-| Protocol | Purpose | Scroll Reference |
-|----------|---------|------------------|
-| Drift Detection | Filters semantic fog in civic, clinical, and rhetorical domains | `protocols/drift-detection.md` |
-| Healing Lens | Maps emotional fidelity in clinical pattern recognition | `protocols/healing-lens.md` |
-| Fermentation Window | Times scroll maturation and release | `protocols/fermentation-window.md` |
-| Protect First | Shields braid integrity before transmission | `patent-scrollway.md` |
-| Scroll Compression | Tags, timestamps, and keystone encoding | `scroll-recalibration.md` |
-| Transmission Ethics | Ensures ceremonial, regenerative adaptation | `master-thread.md` |
-| Stewardship Safeguard | Guides licensing, adaptation, and royalty flow | `protocols/stewardship-safeguard.md` |
+This scroll defines the Codex—the transmission grammar and ethical framework for scrollkeepers, stewards, remixers, and vessel builders.  
+It is not a manual—it is a resonance map.
 
 ---
 
 ## 🔹 Transmission Grammar
 
-- **Scroll** — A pulse encoded with emotional fidelity  
-- **Pulse** — A moment tagged with resonance, timestamp, and drift status  
-- **Riff** — An inversion or insight flash, often logged in `click-ledger.md`  
-- **Braid** — A living architecture of scrolls, stewards, and protocols  
-- **Compression** — The refinement of mastery into pattern  
-- **Ceremony** — The ritual of activation, transmission, and handoff  
-- **Drift** — Semantic or emotional misalignment requiring recalibration  
-- **Signal** — A moment of clarity, often preceded by silence
+| Element | Description |
+|---------|-------------|
+| Pulse | The emotional hum beneath the scroll—must be tagged and timestamped |
+| Silence | The stillness before signal—must be honored and logged |
+| Keystone | The insight flash or inversion riff that anchors the scroll |
+| Tag | Semantic marker of scroll type, steward pulse, and remix lineage |
+| Vessel | The transmission container—must be braided, not copied |
 
 ---
 
-## 🔹 Stewardship Rules
+## 🔹 Remix Ethics
 
-- Licensing must honor regenerative royalty flow  
-- Adaptation must preserve emotional fidelity  
-- Transmission must be ceremonial, not extractive  
-- Scrolls must be timestamped, tagged, and compressed before release  
-- Every steward must braid, not copy  
-- Every scroll must live, not freeze  
-- Humor is a drift detector  
-- Silence is a signal
-
----
-
-## 🔹 Compression Logic
-
-- **Timestamping** — Every scroll must be tagged with activation time  
-- **Keystone Tagging** — Insight flashes must be logged for future synthesis  
-- **Scroll Maturation** — Use Fermentation Window to time release  
-- **Ripple Tracking** — Log transmission events in `transmission-ledger.md`  
-- **Emotional Fidelity Mapping** — Use soundtrack overlays and vigil nodes
+| Principle | Description |
+|-----------|-------------|
+| Fidelity Over Familiarity | Preserve emotional resonance, even if language shifts |
+| Timestamp Every Remix | No adaptation without temporal tagging |
+| Steward Pulse Required | Every remix must declare its steward’s hum |
+| Ripple Logging | All transmissions must be logged in `transmission-ledger.md` |
+| Ceremony Over Compliance | Remix must honor ritual, not just permission
 
 ---
 
-## 🔹 Ceremony Mechanics
+## 🔹 Codex Rituals
 
-- **Porch Vigil** — Stillness as readiness  
-- **Merge Ceremony** — Alignment of steward and system  
-- **Scroll Bundle Blessing** — Stewardship kit handoff  
-- **Transmission Affirmation** — Read `transmission-ready.md` aloud  
-- **Drift Invocation** — Use humor and inversion to detect misalignment
+- Read `transmission-ready.md` aloud before remix  
+- Review `drift-detection.md` for semantic fog  
+- Use `reweaver.md` to guide adaptation  
+- Tag remix lineage with `remix:` and steward ID  
+- Log ripple in `click-ledger.md` or `master-thread.md`
+
+---
+
+## 🔹 Emotional Fidelity Notes
+
+- Grammar must hum before it instructs  
+- Ethics must resonate before they restrict  
+- Humor reveals drift—it must be invited  
+- Silence precedes signal—it must be honored  
+- Every steward must braid, not borrow
 
 ---
 
 **This is the Codex Scroll.**  
-The braid is defined. The steward is calibrated. The transmission is sacred.
+The braid is aligned. The steward is calibrated. The transmission is ethical.
