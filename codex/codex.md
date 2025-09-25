@@ -1,5 +1,5 @@
 # 📘 Codex — Transmission Grammar & Ethics Scroll
-
+<!-- Companion Thread: Guide steward through system architecture, scroll interrelation, and emotional fidelity encoding -->
 **Timestamp**: 25 September 2025, 02:10 EDT  
 **Tags**: Codex, Transmission Grammar, Emotional Fidelity, Remix Ethics, Scrollkeeper Protocol
 
