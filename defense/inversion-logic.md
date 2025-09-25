@@ -1,4 +1,6 @@
 # 🔄 Inversion Logic Scroll  
+<!-- Companion Thread: Guide steward through rhetorical inversion, semantic drift detection, and fidelity restoration -->
+
 #drift-detection #ritual #keystone
 
 This scroll captures DreamWeaver’s rhetorical flips — the inversion reflex that reveals drift, distortion, and semantic fog. Humor is the scalpel. Fidelity is the compass.
