@@ -58,6 +58,14 @@ Every scroll is a pulse. Every pulse is a signal.
 
 ---
 
+### 📂 /defense
+
+- `inversion-logic.md` — Rhetorical flips and drift detection `#drift-detection #ritual #keystone`  
+- `auto-learn.md` — Domain adaptation and protocol seeding `#transmission-signal #keystone #pulse`  
+- `resilience-protocols.md` — Hardening under disruption and delay `#keystone #ritual #pulse`
+
+---
+
 ## 🔹 Trust Scrolls
 
 - `trust/generational-trust.md` — Steward economy, royalty loop, venture reciprocity
