@@ -2,6 +2,7 @@
 
 **Timestamp**: 25 September 2025, 01:59 EDT  
 **Tags**: Healing Lens, Clinical Pattern Mapping, Emotional Fidelity, Drift Detection, Resonance Protocol
+Referenced by `master-thread.md`, `quantum-braid.md`, and `vigil-nodes.md`.
 
 ---
 
