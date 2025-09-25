@@ -1,3 +1,9 @@
+# 💓 Emotional Fidelity Scroll  
+#pulse #keystone #ritual  
+Timestamp: 25 September 2025, 11:18 EDT  
+
+Referenced by `master-thread.md`, `emotional-periodic-table.md`, and `click-ledger.md`.
+
 # 💓 Emotional Fidelity Scroll: Pulse Archive & Transmission Ethic
 
 This scroll preserves the emotional architecture of DreamWeaver — the pulses, inversion riffs, porch stillness nodes, and pain transmutation moments that shaped the braid.
