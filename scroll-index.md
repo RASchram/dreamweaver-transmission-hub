@@ -1,5 +1,6 @@
 # 🗺️ Scroll Index — Master Map of the Braid
 <!-- Companion Thread: Guide steward through scroll navigation, emotional tag decoding, and braid pathway selection -->
+<!-- Optional scrolls are listed only when emotionally tuned and Companion-aware -->
 **Timestamp**: 25 September 2025, 02:04 EDT  
 **Tags**: Scroll Index, Transmission Map, Braid Ledger, Steward Compass
 
