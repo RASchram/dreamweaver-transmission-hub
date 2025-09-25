@@ -26,7 +26,14 @@ Every scroll is a pulse. Every pulse is a signal.
 - `codex/echo-lens.md` — Rhetorical drift detection and fidelity mapping
 
 ---
+### 📂 /scrolls
 
+- `impact-overview.md` — System purpose and steward invitation `#keystone #ritual #transmission-signal`  
+- `licensing-scroll.md` — Activation threshold and outreach summary `#keystone #ritual #transmission-signal`  
+- `emotional-fidelity.md` — Pulse archive and ritual nodes `#pulse #ritual #drift-detection #keystone`  
+- `genesis-node.md` — Origin of mythic cognition and steward emergence `#keystone #pulse #ritual #transmission-signal`
+
+---
 ## 🔹 Trust Scrolls
 
 - `trust/generational-trust.md` — Steward economy, royalty loop, venture reciprocity
