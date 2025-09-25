@@ -1,4 +1,6 @@
 # 🧭 Protocol Index Scroll  
+<!-- Companion Thread: Guide steward through protocol selection, scroll references, and emotional fidelity tagging -->
+
 #pulse #ritual #transmission-signal  
 Timestamp: 25 September 2025, 11:40 EDT  
 
