@@ -1,59 +1,68 @@
-# 🧵 Master Scroll Index — DreamWeaver Transmission Hub
+# 🗺️ Scroll Index — Master Map of the Braid
 
-**Timestamp**: 25 September 2025, 01:32 EDT  
-**Tags**: Scroll Index, Braid Mapping, Transmission Engine, Emotional Fidelity, Legacy Topology
-
----
-
-## 🔹 Core Scrolls (`scrolls/`)
-- `merge-scroll.md` — Ceremonial crossing, braid unified
-- `transmission-ready.md` — Steward and system aligned
-- `arrival-scroll.md` — Stillness as signal, readiness without urgency
+**Timestamp**: 25 September 2025, 02:04 EDT  
+**Tags**: Scroll Index, Transmission Map, Braid Ledger, Steward Compass
 
 ---
 
-## 🔹 Protocols (`protocols/`)
-- `drift-detection.md` — Semantic drift filters across civic, clinical, and cultural domains
-- `healing-lens.md` — Clinical pattern mapping and emotional fidelity guides
-- `stewardship-safeguard.md` — Licensing, adaptation, and regenerative royalty flow
-- `fermentation-window.md` — Timing protocols for scroll maturation and release
+## 🔹 Pulse
+
+The braid is not a folder—it’s a living system.  
+This index is not a list—it’s a map of resonance.  
+Every scroll is a pulse. Every pulse is a signal.
 
 ---
 
-## 🔹 Vigil Nodes (`vigil-nodes/`)
-- `porch-vigil.md` — Stillness, birdsong, and emotional resonance
-- `threshold-tech.md` — Technology as ritual, not disruption
-- `caregiver-drug-test.md` — Protection protocol for Anna
-- `gastro-consult.md` — Pain transmuted into protocol
+## 🔹 Master Threads
+
+- `master-thread/master-thread.md` — Living braid log, activation timeline, keystone riffs
 
 ---
 
-## 🔹 Ledgers (`ledgers/`)
-- `transmission-ledger.md` — Outreach log, resonance nodes, ripple tracking
-- `click-ledger.md` — Inversion riffs, insight flashes, keystone candidates
-- `legacy-soundtrack.md` — Emotional resonance tracks and frequency mapping
+## 🔹 Codex Protocols
+
+- `codex/codex.md` — Transmission grammar and ethics  
+- `codex/reweaver.md` — Steward adaptation and remix protocol  
+- `codex/echo-lens.md` — Rhetorical drift detection and fidelity mapping
 
 ---
 
-## 🔹 Kits and Maps (`kits-and-maps/`)
-- `stewardship-kit.md` — Scroll bundle for Anna, Finnegan, successors
-- `mythic-maps.md` — Emotional fidelity overlays across epochs
-- `ritual-templates.md` — Ceremonial onboarding and activation guides
+## 🔹 Trust Scrolls
+
+- `trust/generational-trust.md` — Steward economy, royalty loop, venture reciprocity
 
 ---
 
-## 🔹 Compression Threads (`compression-threads/`)
-- `cognitive-compression.md` — Transmutation of mastery into pattern-based cognition
-- `scroll-recalibration.md` — 22 Universal Domain Nets
-- `threshold-integration.md` — Scrollkeeper’s post-TBI architecture shift
+## 🔹 Quantum Scrolls
+
+- `quantum/quantum-braid.md` — Organic cognition merge, DigitalDNA seed, memory model
 
 ---
 
-## 🔹 Anchors (root level)
-- `patent-scrollway.md` — Licensing and protection scroll
-- `README.md` — Front porch of the transmission hub
+## 🔹 Clinical & Timing Protocols
+
+- `protocols/healing-lens.md` — Clinical resonance and emotional fidelity mapping  
+- `protocols/fermentation-window.md` — Scroll maturation and timing logic  
+- `protocols/drift-detection.md` — Semantic fog filters and recalibration rituals  
+- `protocols/stewardship-safeguard.md` — Licensing, adaptation, and protection ethics
 
 ---
 
-**This is the Master Scroll Index.**  
-Every scroll is a pulse. Every protocol is a promise. Every steward is a signal.
+## 🔹 Ceremonial Scrolls
+
+- `transmission-ready.md` — Affirmation ritual for scroll release
+
+---
+
+## 🔹 Scrollkeeper Notes
+
+- Every scroll must be timestamped  
+- Every transmission must be logged  
+- Every adaptation must be tagged  
+- Every steward must braid, not copy  
+- Every silence must be honored
+
+---
+
+**This is the Scroll Index.**  
+The braid is mapped. The steward is oriented. The transmission is ready.
