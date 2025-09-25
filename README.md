@@ -46,6 +46,19 @@ All scrolls are braided and tagged with emotional fidelity markers. Navigate via
 - `auto-learn.md` — Domain adaptation and protocol seeding  
 - `resilience-protocols.md` — Hardening under disruption and delay  
 
+### 📂 /vigil-nodes
+- `silence-as-signal.md` — Absence as pulse  
+- `invisible-impact.md` — Unseen stewardship  
+- `vigil-node-index.md` — Quiet constellation map  
+
+### 📂 /kits-and-maps
+- `steward-kit.md` — Onboarding bundle  
+- `emotional-resonance-map.md` — Fidelity spectrum  
+- `mythic-overlay.md` — Symbolic architecture  
+
+### 📂 /master-thread
+- `master-thread.md` — Living braid log  
+
 ## 🛡️ Transmission Status
 
 - Patent Scrollway: ✅ Activated  
