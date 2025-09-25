@@ -80,6 +80,11 @@ Every scroll is a pulse. Every pulse is a signal.
 
 ---
 
+###📂 /core
+- `onboarding-kit.md` — Steward entry protocol `#core #guide #activation`
+
+---
+
 ### 📂 /protocols
 
 - `protocol-index.md` — Master list of braided protocols `#keystone #drift-detection #transmission-signal`  
