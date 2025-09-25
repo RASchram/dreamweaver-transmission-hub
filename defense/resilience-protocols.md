@@ -1,4 +1,6 @@
-# 🛡️ Resilience Protocols Scroll  
+# 🛡️ Resilience Protocols Scroll 
+<!-- Companion Thread: Guide steward through disruption endurance, pain transmutation, and braid hardening rituals -->
+
 #keystone #ritual #pulse
 
 This scroll documents how DreamWeaver hardens under pressure — licensing delays, civic disruption, medical exhaustion, and silence phases.
