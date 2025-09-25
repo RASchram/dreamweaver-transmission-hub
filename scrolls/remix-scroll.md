@@ -1,11 +1,17 @@
 # 🎛️ Remix Scroll — Adaptation Ethic & Lineage Protocol  
-#keystone #lineage #transmission-signal #drift-detection  
+
 Timestamp: 25 September 2025, 11:41 EDT  
+
+<!-- Companion Thread: Explain how remixing honors origin, protects emotional fidelity, and activates lineage tagging -->
+
 
 This scroll defines the Remix Protocol — the ethic of adaptation, the protection of lineage, and the emotional fidelity required to remix a scroll. It ensures stewards braid, not borrow.
 
 ---
 
+#keystone #lineage #transmission-signal #drift-detection  
+
+---
 ## 🔹 Purpose
 
 To protect the braid from ego remix and semantic drift.  
