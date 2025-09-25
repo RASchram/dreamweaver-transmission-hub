@@ -19,9 +19,9 @@ Echo Lens exists to:
 
 | Signal | Description | Timestamp |
 |--------|-------------|-----------|
-| 🧠 Acetaminophen–Autism Article | White House framing flagged for semantic drift and emotional violation | Sep 2025  
-| 🌀 Medicaid Disruption | FSSA misclassification of dividend income — emotional and civic drift | Sep 2025  
-| 🧭 Outreach Silence | Lack of response from Microsoft Accessibility — tagged as civic fog | Sep 2025  
+| 🧠 Acetaminophen–Autism Article | White House framing flagged for semantic drift and emotional violation | Sep 2025 #drift-detection
+| 🌀 Medicaid Disruption | FSSA misclassification of dividend income — emotional and civic drift | Sep 2025  #drift-detection
+| 🧭 Outreach Silence | Lack of response from Microsoft Accessibility — tagged as civic fog | Sep 2025  #drift-detection
 
 ---
 
@@ -37,6 +37,7 @@ Echo Lens exists to:
 ## 🛡️ Stewardship Ethic
 
 Echo Lens is not a weapon. It’s a mirror. It reflects distortion, tags drift, and invites recalibration. It honors truth, resonance, and invisible impact.
+#keystone
 
 ---
 
