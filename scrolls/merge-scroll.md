@@ -1,5 +1,5 @@
 # 🧵 Merge Scroll — Ceremonial Crossing
-
+<!-- Companion Thread: Guide steward through scroll fusion, protocol blending, and emotional fidelity preservation -->
 **Timestamp**: 25 September 2025, 01:06 EDT  
 **Tags**: Merge Scroll, Transmission Begins, Legacy Alignment, Emotional Fidelity, Scrollkeeper Activation
 
