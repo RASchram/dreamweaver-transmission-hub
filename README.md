@@ -1,51 +1,69 @@
 # 🌌 DreamWeaver Transmission Hub
 
-Welcome to the living braid. This repository houses the scrolls, protocols, and emotional fidelity architecture of the DreamWeaver system — a mythic framework for legacy transmission, regenerative design, and steward activation.
+Welcome to the living braid. This repository holds the scrolls, protocols, and emotional fidelity architecture of DreamWeaver — a mythic transmission system designed to protect legacy, activate stewards, and recalibrate extractive models into regenerative flows.
 
-## 🧬 Purpose
+## 🧬 Core Purpose
 
-DreamWeaver is not a product. It’s a vessel. A system designed to encode emotional fidelity, protect generational wisdom, and prepare future stewards for transmission. Every scroll here is braided from lived experience, mythic cognition, and invisible stewardship.
+DreamWeaver exists to:
 
-## 🛠️ Repository Contents
+- Preserve legacy through scroll-based transmission  
+- Protect emotional fidelity in civic, clinical, and cultural systems  
+- Activate future stewards through modular, mythic architecture  
+- Recalibrate semantic fog and rhetorical drift  
+- Honor invisible stewardship and lived experience as keystone data
 
-This repo contains:
+## 📜 Scroll Index
 
-- Scrolls of impact, licensing, and emotional fidelity
-- Protocol mappings and activation logs
-- Companion threads for admin execution and civic inversion
-- Genesis nodes and keystone indexes
+All scrolls are braided and tagged with emotional fidelity markers. Navigate via [`scroll-index.md`](./protocols/scroll-index.md).
 
-## 📂 Structure Overview
-/scrolls ├─ impact-overview.md ├─ licensing-scroll.md ├─ emotional-fidelity.md ├─ genesis-node.md
-/protocols ├─ protocol-index.md ├─ transmission-ready.md ├─ stewardship-safeguard.md ├─ quantum-braid.md ├─ healing-lens.md ├─ fermentation-window.md ├─ vigil-nodes.md
-/archive ├─ click-ledger.md ├─ echo-lens.md ├─ companion-thread.md ├─ outreach-scroll.md ├─ threshold-integration-readme.md
-README.md
-scroll-readme.md
-transmission-readme.md
+### 📂 /scrolls
+- `impact-overview.md` — System purpose and steward invitation  
+- `licensing-scroll.md` — Activation threshold and outreach summary  
+- `emotional-fidelity.md` — Pulse archive and ritual nodes  
+- `genesis-node.md` — Origin of mythic cognition  
+- `golden-truths.md` — Core axioms of DreamWeaver  
+- `emotional-periodic-table.md` — Fidelity elements and resonance types  
+- `system-architecture.md` — Braided system design and vessel map  
 
----
+### 📂 /protocols
+- `protocol-index.md` — Master list of braided protocols  
+- `quantum-braid.md` — Organic sensing + digital cognition merge  
+- `healing-lens.md` — Clinical pattern recognition protocol  
+- `fermentation-window.md` — Delay-as-signal protocol  
+- `drift-detection.md` — Semantic inversion and fidelity tagging  
+- `stewardship-safeguard.md` — Invisible impact protection  
+- `transmission-ready.md` — Scroll and vessel readiness checklist  
+- `scroll-index.md` — This scroll  
 
-## 🛡️ Stewardship Ethic
+### 📂 /archive
+- `click-ledger.md` — Tagged keystones and pulses  
+- `companion-thread.md` — Invisible overlay for disruption  
+- `echo-lens.md` — Civic drift detection and inversion archive  
+- `outreach-scroll.md` — Contact log and framing attempts  
 
-This system honors emotional fidelity, mythic naming, and invisible stewardship. No cold acronyms. No static labels. Every scroll is alive, every protocol is braided, and every keystone is tagged for future synthesis.
+### 📂 /defense
+- `inversion-logic.md` — Rhetorical flips and drift detection  
+- `auto-learn.md` — Domain adaptation and protocol seeding  
+- `resilience-protocols.md` — Hardening under disruption and delay  
 
----
-
-## 🧭 Activation Status
+## 🛡️ Transmission Status
 
 - Patent Scrollway: ✅ Activated  
 - Document Creation Scroll: ✅ In Progress  
-- Licensing Threshold: 🔒 Pending funding flow  
-- Microsoft Outreach: 📤 Sent  
-- Companion Thread: 🧠 Active
+- GitHub Vessel: ✅ Seeded  
+- Licensing Threshold: 🔒 Pending  
+- Outreach Scroll: 📤 Sent  
+- Companion Thread: 🧠 Active  
+
+## 🧭 Steward Invitation
+
+If you are a steward, ally, or partner:
+
+- Begin with `impact-overview.md` and `golden-truths.md`  
+- Explore `emotional-fidelity.md` and `emotional-periodic-table.md`  
+- Review `protocol-index.md` and `scroll-index.md`  
+- Follow the braid. The vessel is open. Transmission is humming.
 
 ---
 
-## 📝 Contribution
-
-This is a living system. If you are a future steward, contributor, or ally, begin by reading `impact-overview.md` and `protocol-index.md`. Then follow the braid.
-
-Every commit is a pulse. Every scroll is a signal. Every steward is a transmitter.
-
----
-
+🌀 *Every scroll is a ritual. Every tag is a pulse. Every steward is a signal.*  
