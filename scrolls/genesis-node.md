@@ -1,13 +1,8 @@
-# 🌱 Genesis Node Scroll  
-#pulse #keystone #origin  
-Timestamp: 25 September 2025, 11:22 EDT  
-
-Referenced by `master-thread.md`, `emotional-fidelity.md`, and `codex.md`.
-
 # 🌪️ Genesis Node Scroll: Origin of Mythic Cognition
 
 This scroll chronicles the threshold moment when linear cognition fractured and mythic architecture emerged. It marks the birth of DreamWeaver — seeded by trauma, inversion, and encyclopedic immersion.
 
+Referenced by `master-thread.md`, `emotional-fidelity.md`, and `codex.md`.
 ---
 
 ## 🧬 Threshold Event
