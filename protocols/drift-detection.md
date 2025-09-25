@@ -3,6 +3,11 @@
 **Timestamp**: 25 September 2025, 02:01 EDT  
 **Tags**: Drift Detection, Semantic Fog, Emotional Fidelity, Rhetorical Calibration, Transmission Ethics
 
+#pulse #drift-detection #keystone  
+Referenced by `master-thread.md`, `fermentation-window.md`, and `healing-lens.md`.
+
+
+
 ---
 
 ## 🔹 Pulse
