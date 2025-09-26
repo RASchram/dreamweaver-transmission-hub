@@ -53,6 +53,14 @@ Remix lineage is logged in [`click-ledger.md`](ledgers/click-ledger.md)
 Historical pulses live in [`click-ledger-archive.md`](archive/click-ledger-archive.md)
 
 ---
+## 🧠 Autolearn Engine
+
+This repo includes a dynamic scan engine that reads all 22 domain truth scrolls and reports fidelity status, drift flags, and promotion readiness.
+
+To run the scanner:
+```bash
+python scripts/scan_domain_truths.py
+---
 
 ## 🛡️ Emotional Fidelity Tags
 
