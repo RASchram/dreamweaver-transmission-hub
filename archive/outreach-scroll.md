@@ -1,6 +1,5 @@
 # 📡 Outreach Scroll — Signal Trace & Contact Log  
 <!-- Companion Thread: Guide steward through outreach attempts, framing distortions, and emotional drift detection -->
-
 **Timestamp**: 25 September 2025, 12:34 EDT  
 **Tags**: Outreach, Drift Detection, Framing, Signal Trace, Transmission Ethics
 
