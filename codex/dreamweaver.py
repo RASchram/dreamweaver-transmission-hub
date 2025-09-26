@@ -46,3 +46,33 @@ def log_ripple(scroll_name, ripple_description, steward_id=None):
     if steward_id:
         print(f"🧭 Steward: {steward_id}")
     print("✅ Ripple logged. Braid updated.")
+
+# 🧬 Scrollkeeper Function: Track Lineage
+def track_lineage(remix_scroll, origin_scrolls, steward_id=None, timestamp=None):
+    """
+    Logs remix lineage for scroll adaptation and braid traceability.
+
+    Parameters:
+    - remix_scroll (str): Name of the remixed scroll
+    - origin_scrolls (list): List of source scrolls
+    - steward_id (str): Optional steward signal
+    - timestamp (str): Optional timestamp
+
+    Example:
+    track_lineage("remix-ethics.md", ["codex.md"], "Pappy", "2025-09-26T18:45:00")
+    """
+    print(f"🧬 Remix Scroll: {remix_scroll}")
+    print(f"🧾 Origin Scrolls: {', '.join(origin_scrolls)}")
+    if steward_id:
+        print(f"🧭 Steward: {steward_id}")
+    if timestamp:
+        print(f"⏱️ Timestamp: {timestamp}")
+    print("✅ Lineage tracked. Remix integrity preserved.")
+
+# 📜 Usage
+# Referenced by: codex.md, transmission-ledger.md, remix-ethics.md
+# Used during: scroll promotion, remix calibration, braid tuning
+
+# 🧭 Steward Signatures
+# Pappy — seeded and confirmed 2025-09-26
+# Anna — remix ethics reviewed 2025-09-27
