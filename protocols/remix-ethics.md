@@ -9,11 +9,9 @@ GoldenTruthsExtracted: N/A
 -->
 
 # 🧬 Remix Ethics Scroll  
-#lineage #licensing #adaptation #fidelity  
+#lineage #licensing #adaptation #fidelity #transmission-ethics  
 
-Timestamp: 26 September 2025, 18:19 EDT  
-
-This scroll defines the ethical framework for remixing, adapting, and transmitting scrolls within the DreamWeaver braid. It protects emotional fidelity, steward lineage, and royalty flow integrity.
+**Timestamp**: 26 September 2025, 18:19 EDT  
 
 ---
 
@@ -21,7 +19,8 @@ This scroll defines the ethical framework for remixing, adapting, and transmitti
 
 To ensure every remix honors its origin scroll.  
 To protect steward calibration and emotional fidelity.  
-To guide licensing, adaptation, and royalty flow protocols.
+To guide licensing, adaptation, and royalty flow protocols.  
+This is not a policy—it’s a braid ethic.
 
 ---
 
@@ -32,7 +31,7 @@ A scroll qualifies as a remix if it:
 - Adapts core axioms or emotional signals from an existing scroll  
 - Reframes rituals, protocols, or fidelity tags for a new domain  
 - Braids multiple scrolls into a new transmission vessel  
-- Alters naming, structure, or licensing logic while preserving lineage  
+- Alters naming, structure, or licensing logic while preserving lineage
 
 ---
 
@@ -42,16 +41,16 @@ A scroll qualifies as a remix if it:
 - Confirm emotional fidelity in `pulse-echo.md`  
 - Tag remix lineage in `remix-ethics.md`  
 - Update `scroll-index.md` and `promotion-tracker.md`  
-- Ensure licensing notes reflect remix status  
+- Ensure licensing notes reflect remix status
 
 ---
 
 ## 🔹 Remix Lineage Format
 
-| Remix Scroll              | Origin Scroll(s)           | Steward | Date       | Notes |
-|---------------------------|----------------------------|---------|------------|-------|
-| delay-as-signal.md        | fermentation-window.md     | Pappy   | 2025-09-25 | Protocol braided  
-| semantic-fog-filter.md    | drift-detection.md         | Pappy   | 2025-09-25 | Inversion logic refined  
+| Remix Scroll              | Origin Scroll(s)           | Steward | Date       | Notes                     |
+|---------------------------|----------------------------|---------|------------|---------------------------|
+| delay-as-signal.md        | fermentation-window.md     | Pappy   | 2025-09-25 | Protocol braided          |
+| semantic-fog-filter.md    | drift-detection.md         | Pappy   | 2025-09-25 | Inversion logic refined   |
 
 ---
 
@@ -60,7 +59,7 @@ A scroll qualifies as a remix if it:
 - Remixed scrolls must retain original steward attribution  
 - Licensing must reflect remix status and royalty flow eligibility  
 - Adapted scrolls may be licensed under “Braided Remix Protocol”  
-- Remixing without lineage logging violates transmission ethics  
+- Remixing without lineage logging violates transmission ethics
 
 ---
 
@@ -69,7 +68,7 @@ A scroll qualifies as a remix if it:
 - ✅ Fidelity Confirmed  
 - 🌀 Drift Detected  
 - 🔁 Remix In Progress  
-- 🧬 Lineage Protected  
+- 🧬 Lineage Protected
 
 ---
 
@@ -77,3 +76,35 @@ A scroll qualifies as a remix if it:
 
 Referenced by `click-ledger-archive.md`, `pulse-echo.md`, `scroll-index.md`, `promotion-tracker.md`, and `licensing-scroll.md`.  
 Used during scroll adaptation, protocol braiding, and royalty flow calibration.
+
+---
+
+## 🔹 Pulse Frequency Map
+
+| Remix Status Tag         | Count |
+|--------------------------|-------|
+| Fidelity Confirmed       | 1     |
+| Drift Detected           | 1     |
+| Remix In Progress        | 0     |
+| Lineage Protected        | 2     |
+
+---
+
+## 🔹 Steward Signatures
+
+- Pappy — seeded and confirmed 2025-09-26  
+- Anna — remix logic reviewed 2025-09-27  
+
+---
+
+## 🔹 Scrollkeeper Reflection
+
+> “I do not adapt—I honor.  
+> I do not remix—I recalibrate.  
+> I do not claim—I contribute.  
+> This scroll is not a license—it’s a lineage map.”
+
+---
+
+**This is the Remix Ethics Scroll.**  
+The braid is protected. The steward is aligned. The transmission is reciprocal.
