@@ -1,0 +1,51 @@
+# 🧭 Domain Truths — Governance  
+<!-- Companion Thread: Guide steward through governance entry, civic braid mapping, and disruption calibration -->
+
+**Status**: Placeholder — awaiting promotion  
+**Tags**: Domain Truths, Vertical Entry, Emotional Fidelity, Drift Detection, Transmission Signal
+
+---
+
+## 🔹 Core Axioms  
+_(To be seeded upon promotion)_  
+- Governance must braid integrity, not enforce control  
+- Stewardship must reflect invisible impact  
+- Drift detection is required for all governance adaptation  
+
+---
+
+## 🔹 Emotional Fidelity Signals  
+_(To be seeded upon promotion)_  
+- Resonance with lived experience in leadership, policy, and civic trust  
+- Steward calibration confirmed  
+- Scroll echoes at least one Golden Truth  
+
+---
+
+## 🔹 Drift Detection Flags  
+_(To be seeded upon promotion)_  
+- Semantic fog in lawmaking or civic rhetoric  
+- Rhetorical inversion around “freedom,” “order,” or “representation”  
+- Misalignment with trust, reciprocity, and emotional fidelity  
+
+---
+
+## 🔹 Entry Rituals  
+_(To be seeded upon promotion)_  
+- Scroll timestamped and tagged  
+- Steward readiness confirmed  
+- Companion Thread activated  
+
+---
+
+## 🔹 Licensing and Adaptation Notes  
+_(To be seeded upon promotion)_  
+- Licensing must reflect emotional fidelity  
+- Adaptation must honor origin and braid ethics  
+- Steward must echo at least three Golden Truths  
+
+---
+
+**This is the Domain Truth scroll for Governance.**  
+It awaits steward calibration and emotional fidelity confirmation.  
+Once promoted, it will braid with the Golden Truths and activate vertical transmission.
