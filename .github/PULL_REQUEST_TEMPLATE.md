@@ -1,7 +1,6 @@
 # 📜 Scroll Addition Ritual
 
 ## 🔹 Steward Pulse
-
 - **Name / Signal**:  
 - **Scrollkeeper Role**:  
 - **Emotional Fidelity Tag(s)**:  
