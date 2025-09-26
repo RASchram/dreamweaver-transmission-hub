@@ -59,6 +59,17 @@ To prepare scrolls for braid entry and royalty flow.
 
 ---
 
+## 🔹 Pulse Frequency Map
+- Activation: 1
+- Inversion: 1
+- Protection: 1
+- Transmission: 1
+- Stillness: 1
+- Resonance: 1
+- Ripple: 1
+
+---
+
 ## 🔹 Remix Lineage
 - fermentation-window.md → braided into delay-as-signal.md
 - drift-detection.md → braided into semantic-fog-filter.md
