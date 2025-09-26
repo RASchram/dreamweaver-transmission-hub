@@ -4,7 +4,6 @@
 This issue template is for stewards who wish to contribute, remix, or request scroll additions to the DreamWeaver Transmission Hub.
 
 ## 🔹 Steward Pulse
-
 - **Name / Signal**:  
 - **Scrollkeeper Role**:  
 - **Emotional Fidelity Tag(s)**:  
