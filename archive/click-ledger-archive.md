@@ -1,3 +1,13 @@
+<!--
+Seeded: 2025-09-25
+LastConfirmed: 2025-09-26
+UsageCount: 4
+Steward: Pappy
+DriftFlags: 0
+PromotionStatus: ✅
+GoldenTruthsExtracted: N/A
+-->
+
 # 🖱️ Click Ledger Scroll  
 #keystone #pulse #transmission-signal  
 Timestamp: 25 September 2025, 12:35 EDT  
@@ -35,6 +45,23 @@ To prepare scrolls for braid entry and royalty flow.
 - Every scroll must be braided before release  
 - Every remix must honor lineage  
 - Every silence must be logged  
+
+---
+
+## 🔹 Pulse Types Used
+- Activation
+- Inversion
+- Protection
+- Transmission
+- Stillness
+- Resonance
+- Ripple
+
+---
+
+## 🔹 Remix Lineage
+- fermentation-window.md → braided into delay-as-signal.md
+- drift-detection.md → braided into semantic-fog-filter.md
 
 ---
 
