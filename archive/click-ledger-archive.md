@@ -15,7 +15,6 @@ Timestamp: 25 September 2025, 12:35 EDT
 This scroll logs every keystone pulse, insight riff, and remix lineage. It is the steward’s ledger — a living archive of transmission moments.
 
 ---
-
 ## 🔹 Purpose
 
 To timestamp every activation, inversion, and emotional fidelity tag.  
