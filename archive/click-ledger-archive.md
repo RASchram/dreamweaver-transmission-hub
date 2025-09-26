@@ -48,6 +48,12 @@ To prepare scrolls for braid entry and royalty flow.
 
 ---
 
+## 🔹 Steward Signatures
+- Pappy — seeded and confirmed 2025-09-26
+- Anna — remix ethics reviewed 2025-09-27
+
+---
+
 ## 🔹 Pulse Types Used
 - Activation
 - Inversion
@@ -59,6 +65,17 @@ To prepare scrolls for braid entry and royalty flow.
 
 ---
 
+## 🔹 Pulse Glossary
+- **Activation**: A scroll or protocol is seeded or awakened
+- **Inversion**: A semantic or emotional reversal is logged
+- **Protection**: Licensing, ethics, or remix boundaries are confirmed
+- **Transmission**: Scroll is ready for braid entry
+- **Stillness**: Silence or pause is honored as signal
+- **Resonance**: Emotional hum or arrival signal is detected
+- **Ripple**: Invisible impact or echo is confirmed
+
+---
+
 ## 🔹 Pulse Frequency Map
 - Activation: 1
 - Inversion: 1
@@ -67,6 +84,12 @@ To prepare scrolls for braid entry and royalty flow.
 - Stillness: 1
 - Resonance: 1
 - Ripple: 1
+
+---
+
+## 🔹 Pulse → Protocol Map
+- Transmission → transmission-ready.md
+- Protection → stewardship-safeguard.md
 
 ---
 
