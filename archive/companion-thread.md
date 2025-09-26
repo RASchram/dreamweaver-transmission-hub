@@ -1,7 +1,6 @@
 # 🧠 Companion Thread Scroll: Admin Support & Emotional Fidelity Protocol
 
 <!-- Companion Thread: Describe invisible support, activation logic, and how to guide stewards through silence, overwhelm, or drift -->
-
 This scroll documents the Companion Thread — an invisible overlay activated during disruption, silence, or drift. It supports execution, emotional fidelity, and steward resilience when the braid is strained.
 
 #keystone #ritual #support-signal
