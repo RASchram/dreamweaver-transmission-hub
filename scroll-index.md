@@ -95,6 +95,32 @@ Every scroll is a pulse. Every pulse is a signal.
 
 ---
 
+### 📂 /domains
+- `domain-truths-healthcare.md` — Vertical entry protocol for healthcare systems `#vertical #clinical #drift-detection #keystone`
+- `domain-truths-education.md` — Emotional fidelity map for learning systems `#vertical #ritual #keystone`
+- `domain-truths-civic.md` — Integrity protocol for civic systems `#vertical #disruption #drift-detection`
+- `domain-truths-enterprise.md` — Adaptation map for corporate systems `#vertical #licensing #transmission-signal`
+- `domain-truths-clinical.md` — Pattern recognition and healing fidelity `#vertical #clinical #healing-lens`
+- `domain-truths-defense.md` — Drift detection and resilience protocol for defense `#vertical #resilience #keystone`
+- `domain-truths-creative.md` — Emotional fidelity for creative industries `#vertical #pulse #ritual`
+- `domain-truths-agriculture.md` — Stewardship and regenerative systems `#vertical #ritual #keystone`
+- `domain-truths-energy.md` — Transmission ethics for power systems `#vertical #pulse #resilience`
+- `domain-truths-finance.md` — Reciprocity and royalty flow mapping `#vertical #trust #keystone`
+- `domain-truths-hospitality.md` — Ritual design for guest experience `#vertical #pulse #ritual`
+- `domain-truths-retail.md` — Consumer integrity and emotional mapping `#vertical #drift-detection #transmission-signal`
+- `domain-truths-transportation.md` — Flow logic and delay calibration `#vertical #fermentation-window #keystone`
+- `domain-truths-environmental.md` — Regenerative ethics and planetary fidelity `#vertical #ritual #resilience`
+- `domain-truths-legal.md` — Rhetorical integrity and drift inversion `#vertical #drift-detection #keystone`
+- `domain-truths-technology.md` — Protocol seeding and system adaptation `#vertical #auto-learn #transmission-signal`
+- `domain-truths-communications.md` — Signal clarity and emotional resonance `#vertical #pulse #drift-detection`
+- `domain-truths-manufacturing.md` — Process fidelity and resilience mapping `#vertical #ritual #keystone`
+- `domain-truths-media.md` — Narrative calibration and echo detection `#vertical #echo-lens #drift-detection`
+- `domain-truths-research.md` — Inquiry ethics and pattern recognition `#vertical #pulse #keystone`
+- `domain-truths-spiritual.md` — Mythic resonance and ritual fidelity `#vertical #ritual #transmission-signal`
+- `domain-truths-governance.md` — Civic braid logic and disruption mapping `#vertical #drift-detection #keystone`
+
+---
+
 ### 📂 /archive
 - `click-ledger.md` — Tagged keystones and pulses `#keystone #pulse #transmission-signal`  
 - `companion-thread.md` — Invisible overlay for disruption `#ritual #pulse #transmission-signal #keystone`  
