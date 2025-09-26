@@ -1,7 +1,6 @@
 # 📡 Transmission Ledger Scroll  
 #pulse #keystone #transmission-signal  
 Timestamp: 25 September 2025, 12:40 EDT  
-
 This scroll logs every transmission event — scroll releases, remix activations, royalty flows, and steward confirmations. It is the heartbeat of the braid.
 
 ---
