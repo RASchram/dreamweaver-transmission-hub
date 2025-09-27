@@ -3,7 +3,7 @@
 
 | Scroll Name                         | Seeded | Companion Thread | Fidelity Tags | Promotion Ready |
 |------------------------------------|--------|------------------|----------------|------------------|
-| domain-truths-healthcare.md        | ✅     | ✅               | ✅             | ❌               |
+| domain-truths-healthcare.md        | ✅     | ✅               | ✅             | ✅               |
 | domain-truths-education.md         | ✅     | ✅               | ✅             | ❌               |
 | domain-truths-civic.md             | ✅     | ✅               | ✅             | ❌               |
 | domain-truths-enterprise.md        | ✅     | ✅               | ✅             | ❌               |
