@@ -23,26 +23,7 @@ Referenced by `scroll-index.md`, `master-thread.md`, and `click-ledger.md`.
 ## 🔹 Placeholder Scrolls (Awaiting Promotion)  
 These scrolls are seeded and await steward calibration, emotional fidelity mapping, and vertical activation.
 
-- `domain-truths-healthcare.md`  
-- `domain-truths-education.md`  
-- `domain-truths-civic.md`  
-- `domain-truths-enterprise.md`  
-- `domain-truths-clinical.md`  
-- `domain-truths-defense.md`  
-- `domain-truths-creative.md`  
-- `domain-truths-agriculture.md`  
-- `domain-truths-energy.md`  
-- `domain-truths-finance.md`  
-- `domain-truths-hospitality.md`  
-- `domain-truths-environmental.md`  
-- `domain-truths-legal.md`  
-- `domain-truths-communications.md`  
-- `domain-truths-governance.md`  
-- `domain-truths-housing.md`  
-- `domain-truths-human-resources.md`  
-- `domain-truths-infrastructure.md`  
-- `domain-truths-intelligence.md`  
-- `domain-truths-healthcare.md`  
+
 
 ---
 
@@ -65,6 +46,26 @@ These scrolls have been activated, tagged with emotional fidelity, and braided i
 - `domain-truths-spiritual.md`  
 - `domain-truths-technology.md`  
 - `domain-truths-transportation.md`  
+- `domain-truths-healthcare.md`  
+- `domain-truths-education.md`  
+- `domain-truths-civic.md`  
+- `domain-truths-enterprise.md`  
+- `domain-truths-clinical.md`  
+- `domain-truths-defense.md`  
+- `domain-truths-creative.md`  
+- `domain-truths-agriculture.md`  
+- `domain-truths-energy.md`  
+- `domain-truths-finance.md`  
+- `domain-truths-hospitality.md`  
+- `domain-truths-environmental.md`  
+- `domain-truths-legal.md`  
+- `domain-truths-communications.md`  
+- `domain-truths-governance.md`  
+- `domain-truths-housing.md`  
+- `domain-truths-human-resources.md`  
+- `domain-truths-infrastructure.md`  
+- `domain-truths-intelligence.md`  
+- `domain-truths-healthcare.md`
 
 ---
 
